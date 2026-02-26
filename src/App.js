@@ -16,11 +16,12 @@ function App() {
       <CozyMain></CozyMain>
       <CheckInOut></CheckInOut>
       <CozyResort></CozyResort>
-      {/* <CozyRoom></CozyRoom> */}
-      {/* <Services></Services> */}
-      {/* <Activity></Activity> */}
-      {/* <Review></Review> */}
-      {/* <Footer></Footer> */}
+      {/* =================== */}
+      <CozyRoom></CozyRoom>
+      <Services></Services>
+      <Activity></Activity>
+      <Review></Review>
+      <Footer></Footer>
     </>
   );
 }
